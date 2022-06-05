@@ -3,7 +3,7 @@ Recebendo dados do usuário
 
 Todo dado recebido via input() é do tipo String
 
-Em Python, string é dudo que estiver entre:
+Em Python, string é tudo que estiver entre:
 - Aspas simples;
 - Aspas duplas;
 - Aspas simples triplas;

@@ -25,5 +25,4 @@ print(nome.replace('o', 'x'))
 palindromo = 'socorram me subino onibus em marrocos'
 
 print(palindromo)
-print(palindromo
-      [::-1])
+print(palindromo[::-1])
