@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../exercicios-codigo/.idea/Exercicios_Python_WorkBook.iml" filepath="$PROJECT_DIR$/../exercicios-codigo/.idea/Exercicios_Python_WorkBook.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/GugaPython.iml" filepath="$PROJECT_DIR$/.idea/GugaPython.iml" />
     </modules>
   </component>
